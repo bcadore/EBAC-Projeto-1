@@ -19,16 +19,16 @@
         <nav>
           <ul>
             <li>
-              <a href="#">Sobre nós</a>
+              <a href="#about">Sobre nós</a>
             </li>
             <li>
-              <a href="#">Contato</a>
+              <a href="#contact">Contato</a>
             </li>
           </ul>
         </nav>
       </div>
     </header>
-    <section>
+    <section id="about">
       <div class="container">
         <img
           class="store-front"
@@ -57,5 +57,53 @@
         </div>
       </div>
     </section>
+    <section id="contact">
+      <div class="container">
+        <h2>Contato</h2>
+        <div class="contact-methods">
+          <div>
+            <h3>Fale conosco</h3>
+            <form>
+              <input type="text" placeholder="Digite seu nome" required>
+              <input type="email" placeholder="Digite seu e-mail" required>
+              <input type="tel" placeholder="Digite seu telefone (opcional)">
+              <textarea placeholder="Escreva sua mensagem aqui" required></textarea>
+              <button type="submit">Enviar</button>
+            </form>
+          </div>
+          <div>
+            <h3>Nos acompanhe</h3>
+            <ul class="social-links">
+              <li>
+                <a href="#" title="Siga-nos no instagram">
+                  <img src="./assets/instagram.png" alt="Logo do instagram">
+                </a>
+              </li>
+              <li>
+                <a href="#" title="Siga-nos no facebook">
+                  <img src="./assets/facebook.png" alt="Logo do facebook">
+                </a>
+              </li>
+              <li>
+                <a href="#" title="Visite nosso canal no youtube">
+                  <img src="./assets/youtube.png" alt="Logo do youtube">
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h3>Venha até nós</h3>
+            <p>Rua JavaScript, nº3, Vila HTML - Florianópolis - SC</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="container">
+        <p>
+          &copy; Games shop - Todos os direitos reservados - 2024
+        </p>
+      </div>
+    </footer>
   </body>
 </html>
