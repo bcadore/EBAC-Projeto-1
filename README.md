@@ -1,6 +1,6 @@
 # PROJETO - GAMES SHOP
 
-**Este projeto foi desenvolvido APENAS com o intuito de exercitar os ensinamentos domódulo de HTML e CSS aprendidos no curso da EBAC.**
+**Este projeto foi desenvolvido APENAS com o intuito de exercitar os ensinamentos do módulo de HTML e CSS aprendidos no curso da EBAC.**
 
 - A proposta do projeto foi a criar uma Landing Page para uma loja fictícia de jogos.
 
