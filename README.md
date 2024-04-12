@@ -27,18 +27,6 @@
 
 ---
 
-# Índice
-
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Visualizando o projeto](#-visualizando-o-projeto)
-- [Hospedagem](#-hospedagem)
-- [Autor](#-autor)
-- [Licença](#user-content--licença)
-- [Outras considerações](#-outras-considerações)
-
 ## 💻 Sobre o projeto
 
 Trata-se de uma página web para uma loja **fictícia** de venda de jogos para computadores e video-games.
