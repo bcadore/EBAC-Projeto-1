@@ -31,18 +31,18 @@
 
 <!--ts-->
 
-- [Sobre](#Sobre-o-projeto)
-- [Estrutura do projeto](#Estutura-do-projeto)
-- [Funcionalidades](#Funcionalidades)
-- [Tecnologias](#Tecnologias)
-  - [Linguagens](#Linguagens)
-  - [Ferramentas](#Ferramentas)
-  - [IDE](#IDE)
-  - [Visualizando o projeto](#Visualizando-o-projeto)
-- [Hospedagem](#Hospedagem)
-- [Autor](#Autor)
-- [Licença](#Licença)
-- [Outras considerações](#Outras-considerações)
+- [Sobre](#💻-sobre-o-projeto)
+- [Estrutura do projeto](#⚙️-estrutura-do-projeto)
+- [Funcionalidades](#🎲-funcionalidades)
+- [Tecnologias](#🛠-tecnologias)
+  - [Linguagens](#linguagens)
+  - [Ferramentas](#ferramentas)
+  - [IDE](#ide)
+- [Visualizando o projeto](#👀-visualizando-o-projeto)
+- [Hospedagem](#🌐-hospedagem)
+- [Autor](#🙋🏻‍♂️-autor)
+- [Licença](#📝-licença)
+- [Outras considerações](#🔔-outras-considerações)
 
 <!--te-->
 
