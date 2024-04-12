@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://ebac-projeto-1-seven.vercel.app/" alt="Site da Games Shop">GAMES SHOP</a>
+    <a href="https://ebac-projeto-1-seven.vercel.app/" alt="Site da Games Shop"> 🎮 GAMES SHOP 🎮</a>
 </h1>
 
 <h3 align="center">
@@ -27,6 +27,25 @@
 
 ---
 
+# 📋 ÍNDICE
+
+<!--ts-->
+
+- [Sobre](#Sobre-o-projeto)
+- [Estrutura do projeto](#Estutura-do-projeto)
+- [Funcionalidades](#Funcionalidades)
+- [Tecnologias](#Tecnologias)
+  - [Linguagens](#Linguagens)
+  - [Ferramentas](#Ferramentas)
+  - [IDE](#IDE)
+  - [Visualizando o projeto](#Visualizando-o-projeto)
+- [Hospedagem](#Hospedagem)
+- [Autor](#Autor)
+- [Licença](#Licença)
+- [Outras considerações](#Outras-considerações)
+
+<!--te-->
+
 ## 💻 Sobre o projeto
 
 Trata-se de uma página web para uma loja **fictícia** de venda de jogos para computadores e video-games.
@@ -42,9 +61,7 @@ Foi utilizado o Git/GitHub como a ferramenta de versionamento e também foi util
   - Um arquivo de estilização: **index.css**
   - Uma pasta **(assets)** com as imagens utilizadas na construção da página web.
 
-
-
-## ⚙️ Funcionalidades
+## 🎲 Funcionalidades
 
 As funcionalidades desenvolvidas no projeto são:
 
@@ -57,7 +74,6 @@ As funcionalidades desenvolvidas no projeto são:
 - [x] Links de redes sociais: Possui links para as redes sociais da loja, como Instagram, Facebook e YouTube.
 
 - [x] Informações de localização: Possui uma seção que fornece o endereço físico da loja.
-
 
 ## 🛠 Tecnologias
 
@@ -77,20 +93,19 @@ Foi utilizado na construção do projeto as seguintes tecnologias:
 
 - **[vsCode](https://code.visualstudio.com/)**
 
-
-## Visualizando o projeto
+## 👀 Visualizando o projeto
 
 Abaixo é possível visualizar a página web que foi desenvolvida:
 
 ![Página principal](./assets/TelaPrincipal.png)
 
-## Hospedagem
+## 🌐 Hospedagem
 
 Este projeto encontra-se hospedado na plataforma da **[Vercel](https://vercel.com)**.
 
-#### Pode ser visualizado clicando aqui: **[Games Shop - venda de jogos](https://ebac-projeto-1-seven.vercel.app/)** 
+#### Pode ser visualizado clicando aqui: **[Games Shop - venda de jogos](https://ebac-projeto-1-seven.vercel.app/)**
 
-## 🦸 Autor
+## 🙋🏻‍♂️ Autor
 
 <a href="https://github.com/bcadore">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49734970?s=400&u=7a5ce9ab63e4a78ac5434d008dc8faf070aa0883&v=4" width="150px;" alt=""/>
@@ -106,15 +121,15 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-## Outras considerações
+## 🔔 Outras considerações
 
-**A responsividade da página não foi levada em consideração.**
+👉 **A responsividade da página não foi levada em consideração.**
 
-**O projeto foi puramente contruído para fins de testar algumas habilidades aprendidas durante os módulos de HTML e CSS.**
+👉 **O projeto foi puramente contruído para fins de testar algumas habilidades aprendidas durante os módulos de HTML e CSS.**
 
 <br>
 <p align=center>
-Feito com ❤️ por Bernardo Cadore R.
+❤️  <b>MUITO OBRIGADO</b> por visitarem o meu projeto! ❤️
 </p>
 
 ---
