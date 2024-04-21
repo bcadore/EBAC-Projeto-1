@@ -25,26 +25,6 @@
 	🚧 Projeto concluído 🚧
 </h4>
 
----
-
-# 📋 ÍNDICE
-
-<!--ts-->
-
-- [Sobre](#-sobre-o-projeto)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#tecnologias)
-  - [Linguagens](#linguagens)
-  - [Ferramentas](#ferramentas)
-  - [IDE](#-ide)
-- [Visualizando o projeto](#-visualizando-o-projeto)
-- [Hospedagem](#-hospedagem)
-- [Autor](#-autor)
-- [Licença](#-licença)
-- [Outras considerações](#-outras-considerações)
-
-<!--te-->
 
 ## 💻 Sobre o projeto
 
@@ -58,6 +38,10 @@ Foi utilizado o Git/GitHub como a ferramenta de versionamento e também foi util
 
 - O projeto é composto por:
   - Uma página web: **index.html**
+    - Header: Possui o menu da página (pode ser alterado para uma imagem com o logo da loja) e também um menu lateral para navegar entre as seções da página.
+    - Body: É composto por 2 seções, onde possui imagens da faixada da loja, informações de contato, links para as redes sociais e também o endereço físico do local.
+    OBS: Todas as informações são fictícias.
+    - Footer: No footer temos uma informação sobre os direitos autorais da página web desenvolvida.
   - Um arquivo de estilização: **index.css**
   - Uma pasta **(assets)** com as imagens utilizadas na construção da página web.
 
@@ -79,19 +63,13 @@ As funcionalidades desenvolvidas no projeto são:
 
 Foi utilizado na construção do projeto as seguintes tecnologias:
 
-#### Linguagens:
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 
-- **[HTML](https://html.spec.whatwg.org/)**
-- **[CSS](https://www.w3.org/TR/css3-roadmap/)**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
-#### Ferramentas:
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 
-- **[Git](https://git-scm.com/)**
-- **[GitHub](https://github.com/)**
-
-#### IDE:
-
-- **[vsCode](https://code.visualstudio.com/)**
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
 ## 👀 Visualizando o projeto
 
